@@ -152,11 +152,15 @@ margin-bottom: 6.25em;}
 .profile{ margin-bottom: 6.25em;}
 a:hover{ color:#EAF6F6 }
 .tity{ position:fixed;
-width: 10%;
+width: 0.625em;
 height:auto;
 top:0;
 right:0;
-margin-top: 0;
-margin-right: 0; 
-display: inline-block;}
+margin-top: 0.625em;
+margin-right: 0;
+padding-top: 0.625em;
+padding-bottom: 0.625em;
+padding-left: 0.188em;
+padding-right:  0.188em;}
+.tity:hover{ background-color: #7897AB;}
 .parent{ text-align: center;}
